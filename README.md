@@ -34,9 +34,9 @@
 Після публікації CFE-файлів у каталозі `releases` використовуйте прямі посилання:
 
 <p align="center">
-  <a href="releases/EasyBusyChat_v0.8.2.cfe"><strong>⬇️ Завантажити EasyBusyChat v0.8.2</strong></a>
+  <a href="releases/EasyBusyChat_v0.8.3.cfe"><strong>⬇️ Завантажити EasyBusyChat v0.8.3</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="releases/EasyBusyChatUniversal_v0.8.2.cfe"><strong>⬇️ Завантажити EasyBusyChatUniversal v0.8.2</strong></a>
+  <a href="releases/EasyBusyChatUniversal_v0.8.3.cfe"><strong>⬇️ Завантажити EasyBusyChatUniversal v0.8.3</strong></a>
 </p>
 
 > `EasyBusyChat.cfe` призначений для BAS Малий бізнес із робочим місцем «Контакт-центр». Для інших підтримуваних конфігурацій завантажуйте `EasyBusyChatUniversal.cfe`.
@@ -73,7 +73,7 @@
 
 1. Увійдіть до інформаційної бази з правами адміністратора.
 2. Відкрийте **«Функції для технічного спеціаліста» → «Управління розширеннями конфігурації»**.
-3. [Завантажте `EasyBusyChat_v0.8.2.cfe`](releases/EasyBusyChat_v0.8.2.cfe?raw=1) або [завантажте `EasyBusyChatUniversal_v0.8.2.cfe`](releases/EasyBusyChatUniversal_v0.8.2.cfe?raw=1) і додайте файл до інформаційної бази.
+3. [Завантажте `EasyBusyChat_v0.8.3.cfe`](releases/EasyBusyChat_v0.8.3.cfe?raw=1) або [завантажте `EasyBusyChatUniversal_v0.8.3.cfe`](releases/EasyBusyChatUniversal_v0.8.3.cfe?raw=1) і додайте файл до інформаційної бази.
 4. Налаштуйте параметри безпеки розширення та перезапустіть клієнт.
 5. Відкрийте **Easy-Busy Chat → Адміністрування → Налаштування**, введіть токен і виконайте початкове заповнення.
 
@@ -87,8 +87,8 @@ EasyBusy_v3/
 │   ├── img/
 │   └── instruction_uk.md
 ├── releases/
-│   ├── EasyBusyChat_v0.8.2.cfe
-│   └── EasyBusyChatUniversal_v0.8.2.cfe
+│   ├── EasyBusyChat_v0.8.3.cfe
+│   └── EasyBusyChatUniversal_v0.8.3.cfe
 └── README.md
 ```
 
