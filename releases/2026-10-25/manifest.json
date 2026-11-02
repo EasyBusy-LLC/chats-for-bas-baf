@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-25",
+  "prepared_on": "2026-10-26",
+  "build_platform": "8.3.23.2299",
+  "runtime_tests_run": false,
+  "source_exports_included": false,
+  "artifacts": [
+    {
+      "file": "EasyBusyChat_8.3.19_v0.9.0.cfe",
+      "size": 12649825,
+      "sha256": "e61e2d8c6f8c0b82a2f10bb8b36ce65a66642f80a83e12ccbd2112b3eb000c3e",
+      "origin": "local-release-2026-10-25"
+    },
+    {
+      "file": "EasyBusyChat_v0.9.0.cfe",
+      "size": 12653278,
+      "sha256": "3853ede25d411e3c6fb96980541dc645c0ceb47d9845daff7baf707fb9bfab4e",
+      "origin": "local-release-2026-10-25"
+    },
+    {
+      "file": "EasyBusyChatScheduler8319.epf",
+      "size": 5032,
+      "sha256": "2274a0241c7bd8014f355367729768a87f7392fa153c17b453bc80ab1104ceb9",
+      "origin": "rebuilt-from-current-scheduler-sources-2026-10-26"
+    },
+    {
+      "file": "EasyBusyChatUniversal_v0.9.0.cfe",
+      "size": 12613647,
+      "sha256": "b35eadddbc365701c62b52c706ac4c96838ec5746f50ce4a6ffa08194aedfeae",
+      "origin": "local-release-2026-10-25"
+    },
+    {
+      "file": "EasyBusyChat_v0.9.0.zip",
+      "size": 12590818,
+      "sha256": "5cf572b6c379a8ca977f420a2637217e1b84deabc496726b7724f33f4720068a",
+      "origin": "binary-and-ukrainian-instruction-bundle"
+    },
+    {
+      "file": "EasyBusyChat_8.3.19_v0.9.0.zip",
+      "size": 12595907,
+      "sha256": "e6f5fab5871226ef49d1a3b74c22c9e33dbb559e66170a6b3222875d0796412e",
+      "origin": "binary-and-ukrainian-instruction-bundle"
+    },
+    {
+      "file": "EasyBusyChatUniversal_v0.9.0.zip",
+      "size": 12553102,
+      "sha256": "a1da0f408b6158e0f0b3f9eee50a813015edc7469a4e29e422e2dc173bd19d1a",
+      "origin": "binary-and-ukrainian-instruction-bundle"
+    }
+  ],
+  "publication_status": "local-review-not-published",
+  "support_matrix": "same-as-previous-release-confirmed-by-project-owner",
+  "bundles": [
+    {
+      "variant": "EasyBusyChat_v0.9.0",
+      "archive": "EasyBusyChat_v0.9.0.zip",
+      "required_files": [
+        "EasyBusyChat_v0.9.0.cfe"
+      ],
+      "contents": [
+        "EasyBusyChat_v0.9.0.cfe",
+        "README_uk.md",
+        "SHA256SUMS.txt"
+      ]
+    },
+    {
+      "variant": "EasyBusyChat_8.3.19_v0.9.0",
+      "archive": "EasyBusyChat_8.3.19_v0.9.0.zip",
+      "required_files": [
+        "EasyBusyChat_8.3.19_v0.9.0.cfe",
+        "EasyBusyChatScheduler8319.epf"
+      ],
+      "contents": [
+        "EasyBusyChatScheduler8319.epf",
+        "EasyBusyChat_8.3.19_v0.9.0.cfe",
+        "README_uk.md",
+        "SHA256SUMS.txt",
+        "scheduler-8319_uk.md"
+      ]
+    },
+    {
+      "variant": "EasyBusyChatUniversal_v0.9.0",
+      "archive": "EasyBusyChatUniversal_v0.9.0.zip",
+      "required_files": [
+        "EasyBusyChatUniversal_v0.9.0.cfe"
+      ],
+      "contents": [
+        "EasyBusyChatUniversal_v0.9.0.cfe",
+        "README_uk.md",
+        "SHA256SUMS.txt"
+      ]
+    }
+  ],
+  "recommended_schedules": {
+    "chats_interval_seconds": 60,
+    "directories_interval_seconds": 900,
+    "log_rotation_daily": "03:00",
+    "time_basis": "infobase-execution-server"
+  },
+  "distribution": "git-binaries-and-zip-bundles",
+  "documentation_language": "uk"
+}

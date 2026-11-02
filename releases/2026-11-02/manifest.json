@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-02",
+  "build_platform": "8.3.23.2299",
+  "source_exports_included": false,
+  "artifacts": [
+    {
+      "file": "EasyBusyChat_8.3.19_v0.10.4.cfe",
+      "size": 13334959,
+      "sha256": "40b518db8ee176f34f71f009e894947513c1974c7dbb7fd00abe9f734ef71efd"
+    },
+    {
+      "file": "EasyBusyChat_8.3.19_v0.10.4.zip",
+      "size": 13277368,
+      "sha256": "18378ebad6de8bdebf4be948100c3ac4b0e2a3a211ffc79592efd4fd1791db99"
+    },
+    {
+      "file": "EasyBusyChat_v0.10.5.cfe",
+      "size": 13338025,
+      "sha256": "0ffe76b4255f03ead4924f988d00f8763416f29f8ab2cfa1123dfe357b35cfd1"
+    },
+    {
+      "file": "EasyBusyChat_v0.10.5.zip",
+      "size": 13271070,
+      "sha256": "55ac17b86c98ef225e18270179fb6e8a5a57d48c1eee12d8b7079ed993ffc60f"
+    },
+    {
+      "file": "EasyBusyChatScheduler8319.epf",
+      "size": 5032,
+      "sha256": "2274a0241c7bd8014f355367729768a87f7392fa153c17b453bc80ab1104ceb9"
+    },
+    {
+      "file": "EasyBusyChatUniversal_v0.10.4.cfe",
+      "size": 13297977,
+      "sha256": "ff54587c6061d59651f70450067f8e259a156b91d329492976ac743e26e5860a"
+    },
+    {
+      "file": "EasyBusyChatUniversal_v0.10.4.zip",
+      "size": 13233259,
+      "sha256": "40f5d7fd24bc93c976a0e2b85b9133662e30cf84eb3ac8868cc89c069dba1231"
+    }
+  ],
+  "bundles": [
+    {
+      "archive": "EasyBusyChat_v0.10.5.zip",
+      "version": "0.10.5",
+      "contents": [
+        "EasyBusyChat_v0.10.5.cfe",
+        "README_uk.md",
+        "SHA256SUMS.txt"
+      ]
+    },
+    {
+      "archive": "EasyBusyChat_8.3.19_v0.10.4.zip",
+      "version": "0.10.4",
+      "contents": [
+        "EasyBusyChatScheduler8319.epf",
+        "EasyBusyChat_8.3.19_v0.10.4.cfe",
+        "README_uk.md",
+        "SHA256SUMS.txt",
+        "scheduler-8319_uk.md"
+      ]
+    },
+    {
+      "archive": "EasyBusyChatUniversal_v0.10.4.zip",
+      "version": "0.10.4",
+      "contents": [
+        "EasyBusyChatUniversal_v0.10.4.cfe",
+        "README_uk.md",
+        "SHA256SUMS.txt"
+      ]
+    }
+  ],
+  "scheduler_version": "1.0",
+  "scheduler_changed": false
+}
