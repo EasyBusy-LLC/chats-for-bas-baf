@@ -1,6 +1,16 @@
 # Версії та архів
 
-## Поточний випуск від 02.11.2026
+## Поточний випуск 0.11.0 від 05.11.2026
+
+| Варіант | Версія | Завантаження |
+|---|---|---|
+| EasyBusyChat для BAS Малий бізнес | 0.11.0 | [ZIP + інструкція](../releases/2026-11-05/EasyBusyChat_v0.11.0.zip?raw=1) · [CFE](../releases/2026-11-05/EasyBusyChat_v0.11.0.cfe?raw=1) |
+| EasyBusyChat для платформи 8.3.19 | 0.11.0 | [ZIP + інструкція](../releases/2026-11-05/EasyBusyChat_8.3.19_v0.11.0.zip?raw=1) · [CFE](../releases/2026-11-05/EasyBusyChat_8.3.19_v0.11.0.cfe?raw=1) |
+| EasyBusyChat Universal | 0.11.0 | [ZIP + інструкція](../releases/2026-11-05/EasyBusyChatUniversal_v0.11.0.zip?raw=1) · [CFE](../releases/2026-11-05/EasyBusyChatUniversal_v0.11.0.cfe?raw=1) |
+
+[Зміни](../releases/2026-11-05/RELEASE_NOTES_uk.md) · [SHA-256](../releases/2026-11-05/SHA256SUMS.txt)
+
+## Випуск від 02.11.2026
 
 | Варіант | Версія | Завантаження |
 |---|---|---|
